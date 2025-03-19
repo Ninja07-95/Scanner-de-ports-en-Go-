@@ -1,2 +1,2 @@
 # Scanner-de-ports-en-Go-
-un scanner de ports en language go
+un scanner de ports basic en language go pour les ports standards
